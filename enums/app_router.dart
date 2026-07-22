@@ -13,5 +13,5 @@ void navigate(AppRouter router) {
 }
 
 void main() {
-  navigate(AppRouter.home);
+  navigate(AppRouter.profile);
 }
